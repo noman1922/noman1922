@@ -1,6 +1,5 @@
-# 💫 About Me:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/noman1922/noman1922/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
+<img src="https://raw.githubusercontent.com/noman1922/noman1922/output/github-contribution-grid-snake.svg">
 </p>
 
 # Hi there 👋
@@ -70,32 +69,7 @@ I'm Md. Abdullah Al Noman Khan. I love cybersecurity and web dev. I like to lear
   <img src="https://github-profile-trophy.vercel.app/?username=noman1922&theme=darkhub" alt="trophies" />
 </p>
 
----
 
-## 🔧 How to enable the extra cool parts
-
-1. Contribution snake  
-   - I used a contribution-snake SVG link. You can generate a similar snake with GitHub Actions or use an existing repo that creates the SVG from your graph. See projects that make the snake from your contribution grid. :contentReference[oaicite:0]{index=0}
-
-2. GitHub stats card  
-   - The stats card supports custom theme params and color settings. You can change theme or colors in the URL. :contentReference[oaicite:1]{index=1}
-
-3. Activity graph  
-   - The activity graph service draws recent commits and supports color options. Use the URL and set bg and line color. :contentReference[oaicite:2]{index=2}
-
-4. Badges and custom neon labels  
-   - Use shields.io to make custom badges in any hex color like #39FF14. :contentReference[oaicite:3]{index=3}
-
----
-
-## Tips
-
-- Want exact GitHub contribution number visible?  
-  GitHub itself shows the official total on your profile. Widgets show commits or activity. They can differ. :contentReference[oaicite:4]{index=4}
-
-- If a widget fails to load, check CORS or the external service status. Some services need a public username and public repo activity.
-
----
 
 ### Small note
 If you want, I can:
