@@ -1,6 +1,7 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/noman1922/noman1922/output/github-contribution-grid-snake.svg">
-</p>
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 # Hi there 👋
 
@@ -69,12 +70,3 @@ I'm Md. Abdullah Al Noman Khan. I love cybersecurity and web dev. I like to lear
   <img src="https://github-profile-trophy.vercel.app/?username=noman1922&theme=darkhub" alt="trophies" />
 </p>
 
-
-
-### Small note
-If you want, I can:
-- make a terminal ASCII banner in neon green
-- add a short project list with repo links
-- add Wakatime or top languages in neon style
-
-Tell me which one and I will add it to the README.  
