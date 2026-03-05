@@ -48,7 +48,7 @@ I'm Md. Abdullah Al Noman Khan. I love cybersecurity and web dev. I like to lear
 
 ---
 
-# 📊 GitHub Stats (neon green hacker)
+# 📊 GitHub Stats
 
 <p align="center">
   <!-- main stats card, neon green -->
