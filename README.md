@@ -31,20 +31,13 @@ I'm Md. Abdullah Al Noman Khan. I love cybersecurity and web dev. I like to lear
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <!-- main stats card, neon green -->
-  <img src="https://github-readme-stats.vercel.app/api?username=noman1922&show_icons=true&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&border_color=39FF14" alt="github-stats" />
-</p>
 
 <p align="center">
   <!-- contribution graph, neon green line -->
   <img src="https://activity-graph.herokuapp.com/graph?username=noman1922&bg_color=000000&color=39FF14&line=39FF14&point=39FF14&area=true" alt="activity-graph" />
 </p>
 
-<p align="center">
-  <!-- streak stats in hacker look (use a streak service or fork) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noman1922&theme=tokyonight&background=000000&currStreakLabel=39FF14&fire=39FF14" alt="streak-stats" />
-</p>
+
 
 <p align="center">
   <!-- trophy card -->
