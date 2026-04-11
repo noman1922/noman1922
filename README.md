@@ -34,7 +34,4 @@ I'm Md. Abdullah Al Noman Khan. I love cybersecurity and web dev. I like to lear
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=noman1922&theme=soft-green&hide_border=true&v=20260411)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=noman1922&show_icons=true&theme=dark&v=20260411)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noman1922&layout=compact&theme=dark&v=20260411)
 
