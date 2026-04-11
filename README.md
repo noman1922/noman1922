@@ -32,10 +32,9 @@ I'm Md. Abdullah Al Noman Khan. I love cybersecurity and web dev. I like to lear
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=noman1922&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=noman1922&theme=soft-green&hide_border=true&v=20260411)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=noman1922&show_icons=true&theme=dark&v=20260411)
 
-
-[![](https://visitcount.itsvg.in/api?id=noman1922&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noman1922&layout=compact&theme=dark&v=20260411)
 
