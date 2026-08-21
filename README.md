@@ -13,7 +13,7 @@ I'm Md. Abdullah Al Noman Khan. I love cybersecurity and web dev. I like to lear
 
 * **Programming Languages:** C, C++, C#  
 * **Frameworks:** Laravel, ASP.NET
-* **App Developer: React Native 
+* App Developer: React Native 
 * **Tools:** Metasploitable, Nmap
 
 **Let's Connect**
